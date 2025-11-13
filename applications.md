@@ -1,0 +1,3 @@
+Autonomous Robotic System
+
+In an autonomous robotic system, sensors help the robot understand its surroundings so it can make good decisions. Active sensors send out signals and measures how they bounce back to detect objects. Passive sensors are like a camera that takes in light to recognize an object. Proprioceptive sensors measure what's happening inside the robot and helps it understand its own movements. Exteroceptive sensors collect information from its environment which allows the robot to react to changes. Combining these sensors, a robot can see, feel, and understand its environment and itself, which can make it able to move and act on its own safely.
